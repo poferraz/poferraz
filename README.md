@@ -1,35 +1,95 @@
 # Paulo Ferraz
 
-Building practical web applications with React, TypeScript, and modern frontend tooling. Focus on clean UI, offline-capable PWAs, and real-world productivity tools.
+<p align="center">
+  <strong>Building practical web applications with React, TypeScript, and modern frontend tooling</strong>
+</p>
 
-## What I Build
+<p align="center">
+  <a href="#projects">Projects</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#about">About</a>
+</p>
+
+---
+
+## 👋 About Me
 
 I create web applications for productivity and tracking—coaching logs, workout planners, task managers, and dashboard interfaces. Most projects are built as Progressive Web Apps (PWAs) with offline support and mobile-first design.
 
-## Projects
+Focus areas:
+- 🏋️ Fitness & workout tracking applications
+- 📊 Dashboards and data visualization  
+- 💬 AI-integrated chat interfaces
+- 📱 Offline-capable PWAs for real-world use
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [oats](https://github.com/poferraz/oats) | Mobile-first PWA for retail managers to capture coaching observations on the sales floor. Offline-capable, real-time performance tracking. | TypeScript, React, Tailwind CSS |
-| [structube-chat](https://github.com/poferraz/structube-chat) | Chat application with AI integration. Features conversation interface with streaming responses. | TypeScript, Next.js, shadcn/ui |
-| [glassrevival](https://github.com/poferraz/glassrevival) | Full-stack fitness tracker with AI coaching integration. CSV import, workout planning, PostgreSQL persistence. | React, TypeScript, Express, Drizzle ORM |
-| [motion-lite](https://github.com/poferraz/motion-lite) | Lightweight workout planner and tracker. Import CSV training plans, run distraction-free workout sessions. | TypeScript, React, PWA |
-| [gymtracker-glass-pwa](https://github.com/poferraz/gymtracker-glass-pwa) | Glassmorphism-style gym tracking PWA. Workout logging with modern UI aesthetics. | React, PWA |
-| [bubble-task](https://github.com/poferraz/bubble-task) | Daily task management with bubble board interface. Visual task organization. | — |
-| [c-log](https://github.com/poferraz/c-log) | Coaching log application with automated workflows. GitHub Actions CI/CD integration. | JavaScript, React, GitHub Actions |
-| [leozin](https://github.com/poferraz/leozin) | Artist portfolio website. Single-page HTML with responsive design. | HTML, CSS |
-| [portfolio](https://github.com/poferraz/poferraz) | Personal portfolio site. TypeScript React application with Tailwind CSS. | TypeScript, React |
+---
 
-## Tech I Work With
+## 🚀 Projects
 
-**Languages:** TypeScript, JavaScript, HTML, CSS
+| Project | Description | Stack | Demo |
+|---------|-------------|-------|------|
+| **oats** | Mobile-first PWA for retail managers to capture coaching observations | TypeScript, React, PWA | [Live](https://oats-rho.vercel.app/) |
+| **structube-chat** | AI chat application with streaming responses | TypeScript, Next.js, shadcn/ui | [Live](https://structube-chat.vercel.app) |
+| **glassrevival** | Full-stack fitness tracker with AI coaching integration | React, Express, Drizzle ORM | — |
+| **motion-lite** | Lightweight workout planner with CSV import | TypeScript, React, PWA | — |
+| **gymtracker-glass-pwa** | Glassmorphism-style gym tracking PWA | React, PWA | — |
+| **bubble-task** | Daily task management with bubble board UI | — | — |
+| **c-log** | Coaching log with GitHub Actions CI/CD | JavaScript, React | — |
+| **leozin** | Artist portfolio website | HTML, CSS | — |
+| **portfolio** | Personal portfolio site | TypeScript, React | — |
 
-**Frameworks & Libraries:** React, Next.js, Express.js
+---
 
-**Styling:** Tailwind CSS, shadcn/ui, Radix UI, Framer Motion
+## 🛠️ Tech Stack
 
-**Backend & Data:** PostgreSQL, Drizzle ORM, Zod, Passport.js
+### Languages & Frameworks
+| Technology | Usage |
+|------------|-------|
+| **TypeScript** | Primary language for type-safe development |
+| **React** | UI framework for all frontend applications |
+| **Next.js** | Full-stack React framework |
+| **Express.js** | Backend API development |
 
-**Build Tools:** Vite, Node.js
+### Styling & UI
+| Technology | Usage |
+|------------|-------|
+| **Tailwind CSS** | Utility-first styling across all projects |
+| **shadcn/ui** | Modern component library |
+| **Radix UI** | Headless UI primitives |
+| **Framer Motion** | Smooth animations and transitions |
 
-**Patterns:** PWA, mobile-first, feature-based architecture, offline-capable design
+### Backend & Data
+| Technology | Usage |
+|------------|-------|
+| **PostgreSQL** | Primary database |
+| **Drizzle ORM** | Type-safe database queries |
+| **Zod** | Schema validation |
+| **Passport.js** | Authentication |
+
+### Build & Tools
+| Technology | Usage |
+|------------|-------|
+| **Vite** | Fast development and building |
+| **Node.js** | Runtime environment |
+| **GitHub Actions** | CI/CD automation |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poferraz&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📫 Connect
+
+- 💼 [Portfolio](https://github.com/poferraz/portfolio)
+- 🐦 All projects are open source and available here
+
+---
+
+<p align="center">
+  Made with ❤️ and lots of ☕
+</p>
