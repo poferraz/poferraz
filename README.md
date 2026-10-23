@@ -26,17 +26,15 @@ Focus areas:
 
 ## 🚀 Projects
 
-| Project | Description | Stack | Demo |
+| Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| **oats** | Mobile-first PWA for retail managers to capture coaching observations | TypeScript, React, PWA | [Live](https://oats-rho.vercel.app/) |
-| **structube-chat** | AI chat application with streaming responses | TypeScript, Next.js, shadcn/ui | [Live](https://structube-chat.vercel.app) |
-| **glassrevival** | Full-stack fitness tracker with AI coaching integration | React, Express, Drizzle ORM | — |
-| **motion-lite** | Lightweight workout planner with CSV import | TypeScript, React, PWA | — |
-| **gymtracker-glass-pwa** | Glassmorphism-style gym tracking PWA | React, PWA | — |
-| **bubble-task** | Daily task management with bubble board UI | — | — |
-| **c-log** | Coaching log with GitHub Actions CI/CD | JavaScript, React | — |
-| **leozin** | Artist portfolio website | HTML, CSS | — |
-| **portfolio** | Personal portfolio site | TypeScript, React | — |
+| **allowagent-mcp** | Constitutional spend firewall and command center for PayPal AI agents | TypeScript, React, Vite, MCP | [GitHub](https://github.com/poferraz/allowagent-mcp) |
+| **systematic-innovation** | Provider-neutral Agent Skill and evaluation lab for system-aware innovation | Python, Agent Skills | [GitHub](https://github.com/poferraz/systematic-innovation) |
+| **career-ops** | Comprehensive agent skill and toolchain for career management | Markdown, Node.js CLI | [GitHub](https://github.com/poferraz/career-ops) |
+| **treeways** | Seasonal urban tree trails with offline-first walking routes | JavaScript, PWA, MapLibre, Vite | [GitHub](https://github.com/poferraz/treeways) |
+| **github-stars-visualizer** | Interactive 90s OS desktop environment visualizing GitHub starred repositories | TypeScript, React, Tailwind, Vite | [GitHub](https://github.com/poferraz/github-stars-visualizer) |
+| **make-prompt-better** | Research-grounded prompt optimization using semi-formal reasoning | Markdown, Agent Workflows | [GitHub](https://github.com/poferraz/make-prompt-better) |
+| **dotclaude** | Modular Claude Code configuration: agents, commands, and TDD skills | Bash, Node.js, Configuration | [GitHub](https://github.com/poferraz/dotclaude) |
 
 ---
 
@@ -85,8 +83,8 @@ Focus areas:
 
 ## 📫 Connect
 
-- 💼 [Portfolio](https://github.com/poferraz/portfolio)
-- 🐦 All projects are open source and available here
+- 🌟 Explore all repositories directly on [GitHub](https://github.com/poferraz?tab=repositories)
+- 🐦 Open-source AI tools, skills, and web applications
 
 ---
 
