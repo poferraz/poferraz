@@ -1,4 +1,4 @@
-# Paulo Ferraz
+# poferraz
 
 <p align="center">
   <strong>Building practical web applications with React, TypeScript, and modern frontend tooling</strong>
