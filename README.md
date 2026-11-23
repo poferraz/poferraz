@@ -1,93 +1,20 @@
 # poferraz
 
-<p align="center">
-  <strong>Building practical web applications with React, TypeScript, and modern frontend tooling</strong>
-</p>
+I build AI tools for people who want to use them without becoming developers. I choose the problem, decide what a useful result looks like, and review what gets published. I use AI assistants to help write and test the code.
 
-<p align="center">
-  <a href="#projects">Projects</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#about">About</a>
-</p>
+## Decisions behind my projects
 
----
+- **Treeways.** Early versions generated trail previews from Vancouver’s public tree inventory. I decided each launch trail needed editorial review and approved the first three. The guide also tells walkers which information the city data can support, including where bloom and harvest dates are unknown. [Treeways and my role](https://github.com/poferraz/treeways#my-role)
+- **Make Prompt Better.** Some rewrites dropped the client’s deadline or priority. I kept those details as requirements and added checks for the examples that had lost them. The project reports where historical experiments helped and where they regressed. [The correction and its tests](https://github.com/poferraz/make-prompt-better/pull/22)
+- **AllowAgent.** I shifted the payment demo from a developer console to a customer dashboard. Someone reviewing a proposed payment can see who would receive it, how much it costs, why it was flagged, and what they can do next. [The dashboard change](https://github.com/poferraz/allowagent-mcp/commit/45b7ce1d5e53685923b5e414edf749e11ea04e52)
 
-## 👋 About Me
+## More projects
 
-I create web applications for productivity and tracking—coaching logs, workout planners, task managers, and dashboard interfaces. Most projects are built as Progressive Web Apps (PWAs) with offline support and mobile-first design.
-
-Focus areas:
-- 🏋️ Fitness & workout tracking applications
-- 📊 Dashboards and data visualization  
-- 💬 AI-integrated chat interfaces
-- 📱 Offline-capable PWAs for real-world use
-
----
-
-## 🚀 Projects
-
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| **allowagent-mcp** | Constitutional spend firewall and command center for PayPal AI agents | TypeScript, React, Vite, MCP | [GitHub](https://github.com/poferraz/allowagent-mcp) |
-| **systematic-innovation** | Provider-neutral Agent Skill and evaluation lab for system-aware innovation | Python, Agent Skills | [GitHub](https://github.com/poferraz/systematic-innovation) |
-| **career-ops** | Comprehensive agent skill and toolchain for career management | Markdown, Node.js CLI | [GitHub](https://github.com/poferraz/career-ops) |
-| **treeways** | Seasonal urban tree trails with offline-first walking routes | JavaScript, PWA, MapLibre, Vite | [GitHub](https://github.com/poferraz/treeways) |
-| **github-stars-visualizer** | Interactive 90s OS desktop environment visualizing GitHub starred repositories | TypeScript, React, Tailwind, Vite | [GitHub](https://github.com/poferraz/github-stars-visualizer) |
-| **make-prompt-better** | Research-grounded prompt optimization using semi-formal reasoning | Markdown, Agent Workflows | [GitHub](https://github.com/poferraz/make-prompt-better) |
-| **dotclaude** | Modular Claude Code configuration: agents, commands, and TDD skills | Bash, Node.js, Configuration | [GitHub](https://github.com/poferraz/dotclaude) |
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-| Technology | Usage |
-|------------|-------|
-| **TypeScript** | Primary language for type-safe development |
-| **React** | UI framework for all frontend applications |
-| **Next.js** | Full-stack React framework |
-| **Express.js** | Backend API development |
-
-### Styling & UI
-| Technology | Usage |
-|------------|-------|
-| **Tailwind CSS** | Utility-first styling across all projects |
-| **shadcn/ui** | Modern component library |
-| **Radix UI** | Headless UI primitives |
-| **Framer Motion** | Smooth animations and transitions |
-
-### Backend & Data
-| Technology | Usage |
-|------------|-------|
-| **PostgreSQL** | Primary database |
-| **Drizzle ORM** | Type-safe database queries |
-| **Zod** | Schema validation |
-| **Passport.js** | Authentication |
-
-### Build & Tools
-| Technology | Usage |
-|------------|-------|
-| **Vite** | Fast development and building |
-| **Node.js** | Runtime environment |
-| **GitHub Actions** | CI/CD automation |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poferraz&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
-
-## 📫 Connect
-
-- 🌟 Explore all repositories directly on [GitHub](https://github.com/poferraz?tab=repositories)
-- 🐦 Open-source AI tools, skills, and web applications
-
----
-
-<p align="center">
-  Made with ❤️ and lots of ☕
-</p>
+| Project | What you can use it for |
+| --- | --- |
+| [Systematic Innovation](https://github.com/poferraz/systematic-innovation) | Explore an agent skill for developing ideas and inspect its evaluation data. |
+| [Career Ops](https://github.com/poferraz/career-ops) | Turn examples from your own work into résumé bullets or interview answers with an agent skill. |
+| [Doublecheck](https://github.com/poferraz/doublecheck) | Run a code review locally and see which findings were confirmed and which checks were incomplete. |
+| [dotclaude](https://github.com/poferraz/dotclaude) | Select and install reusable Claude Code settings, commands, and skills. |
+| [GitStars Map](https://github.com/poferraz/github-stars-visualizer) | Explore starred GitHub repositories in a local, Windows 95-style map. |
+| [Retail Checklist](https://github.com/poferraz/retail-checklist) | Read the concept for tracking daily retail store tasks. |
